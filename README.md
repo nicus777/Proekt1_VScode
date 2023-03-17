@@ -1,1 +1,1 @@
-# Proekt1_VScode is to learn from 0
+# Proekt1_VScode is to me for learn from 0
