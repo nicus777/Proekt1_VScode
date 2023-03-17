@@ -1,5 +1,13 @@
 ﻿body
 
+header{
+	color:bisque;
+}
+
+footer{
+	color: rgb(148, 148, 205);
+}
+
 .grid {
 	display:grid;
 	padding: 30px;
@@ -26,4 +34,12 @@ div {
 
 #metka1 {
 	color:blue;
+}
+
+.div1 {
+	color:brown;
+}
+
+.div3 {
+	color:rgb(184, 172, 30);
 }
